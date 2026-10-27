@@ -6,7 +6,7 @@ Agenda de turnos para un salón de belleza. Flutter + Dart, Android, Material 3,
 - **Nombre visible:** Turco
 - **Flutter:** 3.35 o superior (Dart ^3.9)
 
-## Preparar el proyecto (una sola vez)
+## Preparar el proyecto
 
 Este paquete trae el código (`lib/`, `assets/`, `test/`, `pubspec.yaml`). La carpeta `android/` se genera con Flutter:
 
